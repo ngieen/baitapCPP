@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CPPlus" Database="" Version="10000">
+  <VirtualDirectory Name="baitapCPP">
+    <Project Name="baitap1" Path="baitap1/baitap1.project" Active="No"/>
+    <Project Name="test" Path="test/test.project" Active="No"/>
+    <Project Name="EX1" Path="EX1/EX1.project" Active="No"/>
+    <Project Name="EX2" Path="EX2/EX2.project" Active="No"/>
+    <Project Name="EX3" Path="EX3/EX3.project" Active="No"/>
+    <Project Name="EX4" Path="EX4/EX4.project" Active="No"/>
+    <Project Name="EX5" Path="EX5/EX5.project" Active="No"/>
+    <Project Name="EX6" Path="EX6/EX6.project" Active="No"/>
+    <Project Name="EX7" Path="EX7/EX7.project" Active="No"/>
+    <Project Name="EX8" Path="EX8/EX8.project" Active="No"/>
+    <Project Name="EX9" Path="EX9/EX9.project" Active="No"/>
+    <Project Name="EX10" Path="EX10/EX10.project" Active="No"/>
+    <Project Name="EX11" Path="EX11/EX11.project" Active="No"/>
+    <Project Name="EX12" Path="EX12/EX12.project" Active="No"/>
+    <Project Name="EX13" Path="EX13/EX13.project" Active="No"/>
+    <Project Name="EX14" Path="EX14/EX14.project" Active="No"/>
+    <Project Name="EX15" Path="EX15/EX15.project" Active="No"/>
+    <Project Name="EX16" Path="EX16/EX16.project" Active="Yes"/>
+  </VirtualDirectory>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="baitap1" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="EX1" ConfigName="Debug"/>
+      <Project Name="EX2" ConfigName="Debug"/>
+      <Project Name="EX3" ConfigName="Debug"/>
+      <Project Name="EX4" ConfigName="Debug"/>
+      <Project Name="EX5" ConfigName="Debug"/>
+      <Project Name="EX6" ConfigName="Debug"/>
+      <Project Name="EX7" ConfigName="Debug"/>
+      <Project Name="EX8" ConfigName="Debug"/>
+      <Project Name="EX9" ConfigName="Debug"/>
+      <Project Name="EX10" ConfigName="Debug"/>
+      <Project Name="EX11" ConfigName="Debug"/>
+      <Project Name="EX12" ConfigName="Debug"/>
+      <Project Name="EX13" ConfigName="Debug"/>
+      <Project Name="EX14" ConfigName="Debug"/>
+      <Project Name="EX15" ConfigName="Debug"/>
+      <Project Name="EX16" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="baitap1" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="EX1" ConfigName="Release"/>
+      <Project Name="EX2" ConfigName="Release"/>
+      <Project Name="EX3" ConfigName="Release"/>
+      <Project Name="EX4" ConfigName="Release"/>
+      <Project Name="EX5" ConfigName="Release"/>
+      <Project Name="EX6" ConfigName="Release"/>
+      <Project Name="EX7" ConfigName="Release"/>
+      <Project Name="EX8" ConfigName="Release"/>
+      <Project Name="EX9" ConfigName="Release"/>
+      <Project Name="EX10" ConfigName="Release"/>
+      <Project Name="EX11" ConfigName="Release"/>
+      <Project Name="EX12" ConfigName="Release"/>
+      <Project Name="EX13" ConfigName="Release"/>
+      <Project Name="EX14" ConfigName="Release"/>
+      <Project Name="EX15" ConfigName="Release"/>
+      <Project Name="EX16" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

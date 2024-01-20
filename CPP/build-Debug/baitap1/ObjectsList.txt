@@ -1,0 +1,1 @@
+../build-Debug/baitap1/main.cpp.o   

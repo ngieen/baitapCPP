@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="D:\Study\Nguyen\CPP\CPPlus\CPPlus.workspace">
+  <int Value="7" Name="m_selectedTab"/>
+  <wxString Value="D:\Study\Nguyen\CPP\CPPlus\CPPlus.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="D:\Study\Nguyen\CPP\CPPlus\EX10\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="18" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Study\Nguyen\CPP\CPPlus\EX11\main.cpp" Name="FileName"/>
+      <int Value="3" Name="FirstVisibleLine"/>
+      <int Value="9" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Study\Nguyen\CPP\CPPlus\EX12\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="17" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Study\Nguyen\CPP\CPPlus\test\main.cpp" Name="FileName"/>
+      <int Value="6" Name="FirstVisibleLine"/>
+      <int Value="7" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Study\Nguyen\CPP\CPPlus\EX13\main.cpp" Name="FileName"/>
+      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="14" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Study\Nguyen\CPP\CPPlus\EX14\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="5" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Study\Nguyen\CPP\CPPlus\EX15\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="11" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Study\Nguyen\CPP\CPPlus\EX16\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="22" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

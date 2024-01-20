@@ -1,0 +1,73 @@
+[{
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX12\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX12",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX12\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX12\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX15\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX15",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX15\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX15\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX9\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX9",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX9\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX9\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX8\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX8",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX8\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX8\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX7\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX7",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX7\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX7\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX14\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX14",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX14\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX14\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX4\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX4",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX4\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX4\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX3\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX3",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX3\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX3\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX1\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX1",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX1\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX2\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX2",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX2\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX2\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX13\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX13",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX13\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX13\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX11\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX11",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX11\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX11\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX6\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX6",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX6\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX6\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX10\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX10",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX10\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX10\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX5\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX5",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX5\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX5\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX16\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\EX16",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\EX16\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\EX16\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\test\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\test",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\test\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\test\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Study\\Nguyen\\CPP\\CPPlus\\baitap1\\main.cpp",
+  "directory": "D:\\Study\\Nguyen\\CPP\\CPPlus\\baitap1",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Study\\Nguyen\\CPP\\CPPlus\\baitap1\\main.cpp -o D:\\Study\\Nguyen\\CPP\\CPPlus\\baitap1\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++ -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include\\c++\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
